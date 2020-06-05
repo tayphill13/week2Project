@@ -1,14 +1,16 @@
 $(document).ready(function() {
-  $("form#formOne").submit(function()  {
-    const userInput = $("input[name=donutChoice]:checked").val();
+  $("form#formOne").submit(function(event)  {
+    const userInput = $("input:radio[.donut]:checked").val();
     
     if (userInput === "fritter") {
-      result = "You would probably enjoy this programming language"; 
+      return result = "You would probably enjoy this programming language"; 
     } else if (userInput === "chocBar") {
-      result = "You would probably enjoy this language instead";
+      return result = "You would probably enjoy this language instead";
+    } else {
+      result = "You would probably prefer this third language";
     }
+    event.preventDefault();
     
     $("#response").text(result);
-    event.preventDefault();
   })
 })

@@ -1,13 +1,13 @@
 ## _Programming Language Selection Simulator_ 
 
 
-#### _This is a webpage designed to recieve user input and return a value based on the input given, 6.5.20_
+#### _Programming Language Random Selector, 6.5.20_
 
 #### By _**Taylor Phillips at Epicodus**_
 
 ## Description
 
-_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  This is a webpage designed to recieve user input and return a value based on the input given  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _This program will allow user to answer questions and receive back a suggestion 
 * _Using a Terminal on desktop, user will need to type git init_
 * _go to this repository and clone then Open in Desktop_
 * _Will likely need Git for Desktop which can be found here: https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop_
-* _Clone file to desktop_
+* _Clone file to desktop from this repo: <https://github.com/tayphill13/week2Project.git>_
 * _run index.html with web browser_
 
 * _Other option is to go to Repository on git hub <> and download zip_

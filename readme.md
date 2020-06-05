@@ -22,6 +22,7 @@ _This program will allow user to answer questions and receive back a suggestion 
 * _Find the project folder on desktop or downloads folder_
 * _Run index.html with web browser_
 
+# See the deployed page on gh-pages <https://tayphill13.github.io/week2Project/>
 
 ## Known Bugs
 

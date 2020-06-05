@@ -1,40 +1,49 @@
-# _{Application Name}_
+## _Programming Language Selection Simulator_ 
 
-#### _{Brief description of application}, {Date of current version}_
 
-#### By _**Taylor Phillips**_
+#### _This is a webpage designed to recieve user input and return a value based on the input given, 6.5.20_
+
+#### By _**Taylor Phillips at Epicodus**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Install Git Bash_
+* _Using a Terminal on desktop, user will need to type git init_
+* _go to this repository and clone then Open in Desktop_
+* _Will likely need Git for Desktop which can be found here: https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop_
+* _Clone file to desktop_
+* _run index.html with web browser_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Other option is to go to Repository on git hub <> and download zip_
+* _Retrieve zip file in downloads on computer and double click to unpack_
+* _run index.html with web browser_
+
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_This program is currently functional with no known bugs.  Please use contact information below to report any bugs._
 
 ## Support and contact details
 
-_You can contact me through my github page_
+_contact: Taylor at <taylorphillips133@gmail.com> for questions, comments, troubleshooting_
+_This project can be found online at <>
 
 ## Technologies Used
 
-_HTML_
-_CSS_
+_This program utilized:
 _JavaScript_
+_Jquery_
+_CSS_
+_HTML_
+_Bootstrap_
 _VSCode_
 
 ### License
 
-*MIT License*
+*This was made using technologies under the MIT license*
 
-Copyright (c) 2020 **_Taylor Phillips_**
+Copyright (c) 2020 **_Created and Designed by Taylor Phillips_**

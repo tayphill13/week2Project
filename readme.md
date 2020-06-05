@@ -43,7 +43,6 @@ _VSCode_
 
 ### License
 
-*This was made using technologies under the MIT license*
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2020 **_Created and Designed by Taylor Phillips_**

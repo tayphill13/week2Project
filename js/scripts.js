@@ -9,8 +9,10 @@ $(document).ready(function() {
       $("#response").text("Try Python! It's a high-level, general-purpose programming language that was first released in 1991.");
     } else if (preferredDonut === "creme")  {
       $("#response").text("How about looking into the Ruby, programming language?  It was developed in the mid-90's by Yukihiro 'Matz' Matsumoto in Japan, who thought that it would help programmers focus on providing what the user needs, not what the computer needs.");
-    } else  {
+    } else if (preferredDonut === "glaze") {
       $("#response").text("Old-Fashioned eh?  Maybe start out with some HTML and CSS to get the basics first.  Then try to implement some JavaScript!");
+    } else {
+      alert("You have to fill out all the questions for a proper match!");
     }
     event.preventDefault();
   })

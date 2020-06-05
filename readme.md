@@ -7,7 +7,7 @@
 
 ## Description
 
-_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  This is a webpage designed to recieve user input and return a value based on the input given -->  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might enjoy.  The results are determined only by the users' choice of donut. There are 4 different possible results including Ruby, C#, HTMl/CSS, and Python.  I have also included an alert if user doesn't make a donut selection.  In the future I will implement an alert when user leaves any selection blank/blank form._
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _This program will allow user to answer questions and receive back a suggestion 
 * _Will likely need Git for Desktop which can be found here: https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop_
 * _Clone file to desktop from this repo: <https://github.com/tayphill13/week2Project.git>_
 * _run index.html with web browser_
-* _Other option is to go to Repository on git hub <https://github.com/tayphill13/week2Project.git> and download zip_
+* _Other option is to go to Repository on git hub and download zip_
 * _Retrieve zip file in downloads on computer and double click to unpack_
 * _Find the project folder on desktop or downloads folder_
 * _Run index.html with web browser_
@@ -34,7 +34,6 @@ _This program is currently functional with no known bugs.  Please use contact in
 
 ## Technologies Used
 
-_This program utilized:_
 _JavaScript_
 _Jquery_
 _CSS_
@@ -45,5 +44,6 @@ _VSCode_
 ### License
 
 *This was made using technologies under the MIT license*
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2020 **_Created and Designed by Taylor Phillips_**

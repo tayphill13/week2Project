@@ -1,6 +1,7 @@
-/* img {
+img {
   float: left;
-} */
+  margin: 13px;
+} 
 h5  {
   color: blue;
 }

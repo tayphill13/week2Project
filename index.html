@@ -18,19 +18,42 @@
       </div>
       <div class="wrapper">
         <img src="https://www.simpalm.com/wp-content/uploads/2020/02/Programming-language-blog-image.png" alt="Useful Programming Languages in 2020" width="50%">
-        <h4>Please make some selections below!</h4>
+        <h2>Please make some selections below!</h2>
         <form>
-          <select class="form-control" id="amBeverage">
-            <option value="tea">Tea</option>
-            <option value="coffee">Coffee</option>
-            <option value="water">All water, all day!</option>
-          </select>
-          <select class="form-control" id="donut">
-            <option value="fritter">Apple Fritter</option>
-            <option value="chocBar">Chocolate Bar</option>
-            <option value="creme">Creme Filled</option>
-            <option value="glaze">Old-Fashioned Glazed</option>
-          </select>
+          <div class="radio">
+            <h5>What is your preferred Drink in the morning?</h5>
+            <label>
+              <input type="radio" name="morningDrink" value="tea">
+              Tea
+            </label>
+            <label>
+              <input type="radio" name="morningDrink" value="coffee">
+              Coffee
+            </label>
+            <label>
+              <input type="radio" name="morningDrink" value="water">
+              Water all day!
+            </label>
+          </div>
+          <div class="radio">
+            <h5>What is your donut preference?</h5>
+            <label>
+              <input type="radio" name="donut" value="fritter">
+              Apple Fritter
+            </label>
+            <label>
+              <input type="radio" name="donut" value="chocBar">
+              Chocolate Bar
+            </label>
+            <label>
+              <input type="radio" name="donut" value="creme">
+              Creme-Filled
+            </label>
+            <label>
+              <input type="radio" name="donut" value="glaze">
+              Old-Fashoioned Glazed
+            </label>
+          </div>
         </form>
       </div>
     </div>

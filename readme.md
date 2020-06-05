@@ -7,7 +7,7 @@
 
 ## Description
 
-_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  This is a webpage designed to recieve user input and return a value based on the input given  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.  This is a webpage designed to recieve user input and return a value based on the input given -->  DISCLAIMER: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
 
 ## Setup/Installation Requirements
 

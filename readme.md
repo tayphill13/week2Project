@@ -17,7 +17,7 @@ _This program will allow user to answer questions and receive back a suggestion 
 * _Will likely need Git for Desktop which can be found here: https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop_
 * _Clone file to desktop from this repo: <https://github.com/tayphill13/week2Project.git>_
 * _run index.html with web browser_
-
+<hr>
 * _Other option is to go to Repository on git hub <https://github.com/tayphill13/week2Project.git> and download zip_
 * _Retrieve zip file in downloads on computer and double click to unpack_
 * _Find the project folder on desktop or downloads folder_
@@ -31,7 +31,7 @@ _This program is currently functional with no known bugs.  Please use contact in
 ## Support and contact details
 
 _contact: Taylor at <taylorphillips133@gmail.com> for questions, comments, troubleshooting_
-_Contact me through github, here's my profile <https://github.com/tayphill13>
+_Contact me through github, here's my profile <https://github.com/tayphill13>_
 
 ## Technologies Used
 

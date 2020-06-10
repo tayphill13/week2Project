@@ -7,7 +7,7 @@
 
 ## Description
 
-_This program will allow user to answer questions and receive back a suggestion of a coding language they might enjoy.  The results are determined only by the users' choice of donut. There are 4 different possible results including Ruby, C#, HTMl/CSS, and Python.  I have also included an alert if user doesn't make a donut selection.  In the future I will implement an alert when user leaves any selection blank/blank form._
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might enjoy.  The results are determined only by the users' choice of donut and preference of nights or mornings.  There are 5 different possible results including Ruby, C#, HTMl/CSS, Python and Rust.  I have also included an alert if user doesn't make a donut selection or if the user selects a donut, but does not answer the morning or night question.  In the future I will implement an alert when user leaves any selection blank/blank form._
 
 ## Setup/Installation Requirements
 

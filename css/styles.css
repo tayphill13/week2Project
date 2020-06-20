@@ -1,8 +1,10 @@
 .jumbotron {
   background-color: greenyellow;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 5em;
+  font-family: 'Piedra', cursive;
   opacity: 70%;
   color: orangered;
+  text-shadow:  2px 2px 8px rgb(32, 32, 32);
 }
 body {
   background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&w=1000&q=80");
@@ -17,21 +19,22 @@ img {
   margin: 10px;
   padding-left: 10px;
   border-radius: 15%;
+  box-shadow: 1px 1px rgb(85, 85, 85); 
 } 
 label  {
   color: blue;
-  font-family: "Comic Sans MS";
+  font-family:  'EB Garamond';
+  font-size: 1.5em;
+  text-shadow:  1px 1px rgb(32, 32, 32); 
   font-weight: lighter;
 }
 span {
   color: snow;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Indie Flower', sans-serif;
   font-size: x-large;
-  text-shadow: -1px -1px 0 #000,  
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+  text-shadow:  2px 2px 8px rgb(32, 32, 32);
 }
 .btn {
   background-color: green;
+  box-shadow: 1px 2px 3px rgb(85, 85, 85);
 }
